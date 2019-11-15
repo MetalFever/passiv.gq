@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: LET ME HELP YOU BUILD A BETTER PASSIVE INCOME STREAM
-image: /img/coins-cropped.png
+image: /img/josh-appel-netpasr-bmq-unsplash.png
 heading: passively mold your future
 subheading: dvkjbsdbvjkldnvldkjvkdlkadvjnadlkvnalkjdvndn
 mainpitch:
